@@ -1,0 +1,7 @@
+C:\Users\arsendeur\Desktop\2013-i4\TpSoccerRanking\bin\Debug\TpSoccerRanking.dll
+C:\Users\arsendeur\Desktop\2013-i4\TpSoccerRanking\bin\Debug\TpSoccerRanking.pdb
+C:\Users\arsendeur\Desktop\2013-i4\TpSoccerRanking\bin\Debug\SoccerRankingLib.dll
+C:\Users\arsendeur\Desktop\2013-i4\TpSoccerRanking\bin\Debug\SoccerRankingLib.pdb
+C:\Users\arsendeur\Desktop\2013-i4\TpSoccerRanking\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arsendeur\Desktop\2013-i4\TpSoccerRanking\obj\Debug\TpSoccerRanking.dll
+C:\Users\arsendeur\Desktop\2013-i4\TpSoccerRanking\obj\Debug\TpSoccerRanking.pdb

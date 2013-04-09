@@ -1,0 +1,5 @@
+C:\Users\arsendeur\Desktop\2013-i4\SoccerRankingLib\bin\Debug\SoccerRankingLib.dll
+C:\Users\arsendeur\Desktop\2013-i4\SoccerRankingLib\bin\Debug\SoccerRankingLib.pdb
+C:\Users\arsendeur\Desktop\2013-i4\SoccerRankingLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arsendeur\Desktop\2013-i4\SoccerRankingLib\obj\Debug\SoccerRankingLib.dll
+C:\Users\arsendeur\Desktop\2013-i4\SoccerRankingLib\obj\Debug\SoccerRankingLib.pdb
